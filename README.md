@@ -7,25 +7,27 @@
 </p>
 
 
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-            h1 {
-                color: red;
-                animation: mymove 2s infinite;
-            }
 
-            @keyframes mymove {
-                from {
-                    color: red;
-                }
-                to {
-                    color: yellow;
-                }
-            }
-            </style>
-            <h1>HELLO WORLD!</h1>
-        </div>
-    </foreignObject>
-</svg>
+<div class="card rounded_edges">
+		<div class="lists_container">
+		<div class="technical_list_container rounded_edges">
+			<h3 class="list_title title">Technical Skills</h3>
+			<ul>
+			<li><span class="prefix">Programming Languages & Skills: </span>Java, JS, Python,C++,SQL,Html</li>
+			<li><span class="prefix">Back-End: </span>Node.js, Express, Django, Spring</li>
+			<li><span class="prefix">Databases:</span> SQLite,MySQL,mongodb,Firebase(real-time database)</li>
+			<li><span class="prefix">Mobile: </span>Android development</li>
+			</ul>
+		</div>
+		<div class="projects_list_container rounded_edges">
+			<h3 class="list_title title">Projects</h3>
+			<ul>
+			<li>image dominant colors finder</li>
+			<li>Reading Recommender</li>
+			<li>Cost-Manager</li>
+			<li>Budget-Monitor</li>
+			<li>Qwhiz-android app</li>
+			</ul>
+		</div>
+		</div>
+	</div>
