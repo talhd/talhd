@@ -7,47 +7,6 @@
 </p>
 
 
-  <style>
-  html, body{
-  font-family: Arial, Helvetica, sans-serif;
-  font-size:16px;
-  color:#bfe1ff;
-}
-.card{
-background-color: #0420BF;
-width: 100%;
-}
-.rounded_edges{
-border-radius: 10px;
-}
-.lists_container{
-display: flex;
-}
-.technical_list_container{
-    background: radial-gradient(#1fe4f52b, #3fbafe24);
-    margin: 8px 5px 8px 5px;
-border: solid #020f5926 1px;
-flex-grow: 1;
-}
-.projects_list_container{
-background: radial-gradient(#1fe4f52b, #3fbafe24);
-    margin: 8px 5px 8px 5px;
-border: solid #020f5926 1px;
-flex-grow: 1;
-}
-.title{
-margin:6px;
-}
-.prefix{
-font-style: italic;
-}
-ul{
-margin:5px;
-padding-top:0px;
-padding-left:30px;
-}
-</style>
-
 	<div class="card rounded_edges">
 		<div class="lists_container">
 		<div class="technical_list_container rounded_edges">
