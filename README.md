@@ -7,27 +7,31 @@
 </p>
 
 
+<h3 align="center">Programming Skills:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,python,cpp,html" />
+  </a>
+</p>
 
-<div class="card rounded_edges">
-		<div class="lists_container">
-		<div class="technical_list_container rounded_edges">
-			<h3 class="list_title title">Technical Skills</h3>
-			<ul>
-			<li><span class="prefix">Programming Languages & Skills: </span>Java, JS, Python,C++,SQL,Html</li>
-			<li><span class="prefix">Back-End: </span>Node.js, Express, Django, Spring</li>
-			<li><span class="prefix">Databases:</span> SQLite,MySQL,mongodb,Firebase(real-time database)</li>
-			<li><span class="prefix">Mobile: </span>Android development</li>
-			</ul>
-		</div>
-		<div class="projects_list_container rounded_edges">
-			<h3 class="list_title title">Projects</h3>
-			<ul>
-			<li>image dominant colors finder</li>
-			<li>Reading Recommender</li>
-			<li>Cost-Manager</li>
-			<li>Budget-Monitor</li>
-			<li>Qwhiz-android app</li>
-			</ul>
-		</div>
-		</div>
-	</div>
+<h3 align="center">Backend:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring" />
+  </a>
+</p>
+
+<h3 align="center">Databases:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb" />
+     <img src="https://skillicons.dev/icons?i=firebase" />
+  </a>
+</p>
+
+<h3 align="center">Applications development:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio" />
+  </a>
+</p>
